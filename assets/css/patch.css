@@ -1,0 +1,5 @@
+/* Dublesh v6.9.9 — Annotation, OCR, component patch styles */
+
+.ann-tb{transition:background .15s,color .15s}.ann-tb:hover{background:var(--sf3) !important}#cg-prev-wrap{background:var(--sf2)}#ff-fields- > .field{padding:.3rem 0}[id^="ocr-out-"]{color:var(--tx)}[id^="ann-wrap-"]{max-width:100%;overflow:hidden}[id^="ann-over-"]{cursor:crosshair}[data-tool="pdf-to-html"] .tc-ic{font-size:1.6rem}
+
+body{font-family:Georgia,serif;max-width:760px;margin:2rem auto;padding:0 1rem;color:#1a1a1a;line-height:1.75}.page{margin-bottom:2rem;padding-bottom:1.5rem;border-bottom:1px solid #e0e0e0}.pg-hdr{font-size:.68rem;color:#aaa;font-weight:700;text-transform:uppercase;letter-spacing:.06em;margin-bottom:.6rem}p{margin:.45rem 0}@media print{.page{page-break-after:always}}
